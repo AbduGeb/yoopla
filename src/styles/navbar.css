@@ -1,0 +1,24 @@
+.navbar {
+    background-color: #80808048;
+    border-bottom: solid grey;
+    font-size: larger;
+    display: flex;
+    max-height: 20%;
+}
+
+.logo {
+    max-width: 20%;
+    max-height: 20%;
+    display: grid;
+}
+
+.navbar-links-item {
+    margin: 0;
+    padding: 60px;
+    display:inline-block;
+}
+
+.item {
+    color: rgb(255, 123, 0);
+    text-decoration:none
+}

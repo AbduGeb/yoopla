@@ -1,0 +1,11 @@
+h1 {
+    border-bottom: 5px solid red;
+}
+
+h2 {
+    border-bottom: 4px dotted blue;
+}
+
+div {
+    border-bottom: double;
+}

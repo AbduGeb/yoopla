@@ -1,11 +1,11 @@
 import React from "react";
+import logo from "../styles/images/logo.png";
 import "../styles/navbar.css";
-import "../styles/images/logo.png";
 
 const Navbar = () => {
   return (
     <div className="Navbar">
-      <img src="logo.png" alt="logo" width="42" height="42" />
+      <img src={logo} alt="Where's my logo?!" />
     </div>
   );
 };
